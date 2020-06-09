@@ -1,1 +1,1 @@
-# django-library-project
+# django-bibelot-app
